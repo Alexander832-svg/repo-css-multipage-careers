@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(32, 32, 32);
+    color: whitesmoke;
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Impact;
+    background-color: rgb(255, 0, 0);
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: red;
+}
+
+a {
+    color: whitesmoke;
+}
+
+.more-info {
+    background-color: orange;
+}
+
+#home {
+    color: rgb(255, 255, 255);
+    background-color: orange;
+}
